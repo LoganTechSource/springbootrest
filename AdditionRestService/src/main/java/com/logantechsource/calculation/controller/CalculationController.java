@@ -16,7 +16,7 @@ import org.springframework.web.bind.annotation.RestController;
  */
 @RestController
 @RequestMapping(value="/calculationservice")
-public class AdditionController {
+public class CalculationController {
 
 	/**
 	 * This GET method will add the numbers which are passed through request parameter. 

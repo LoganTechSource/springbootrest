@@ -4,9 +4,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AdditionRestServiceApplication {
+public class CalculationRestServiceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(AdditionRestServiceApplication.class, args);
+		SpringApplication.run(CalculationRestServiceApplication.class, args);
 	}
 }
